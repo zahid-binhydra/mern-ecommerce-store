@@ -15,9 +15,9 @@ const Contact = () => {
           <img className='w-full md:max-w-100' src={assets.contact_img} alt="" />
           <div className='flex flex-col justify-center items-start gap-6'>
               <p className='font-semibold text-xl text-gray-600 '>Our Store</p>
-              <p className='text-gray-500'>510012 Zahid Bin Hydra <br />Suit 350, Washington, USA</p>
-              <p className='text-gray-500'>Tel: (412) 555-0123 <br /> Email: admin@forever.com</p>
-              <p className='font-semibold text-xl text-gray-600'>Carers at Forever</p>
+              <p className='text-gray-500'> 123 Performance Street <br />New York, NY 10001</p>
+              <p className='text-gray-500'>Tel: (412) 555-0123 <br /> Email: admin@activewear.com</p>
+              <p className='font-semibold text-xl text-gray-600'>Carers at Active Wear</p>
               <p className='text-gray-500'>Learn more about our teams and job openings.</p>
               <button className='border border-black px-8 py-4 text-sm hover:bg-black hover:text-white transition-all duration-500'>Explore Jobs</button>
           </div>
